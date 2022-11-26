@@ -2072,8 +2072,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #212529;
-  background-color: #ff7f00;
-  border-color: #ff7f00; }
+  background-color: #007be0;
+  border-color: #007be0; }
   .btn-primary:hover {
     color: #fff;
     background-color: #d96c00;
@@ -2456,10 +2456,10 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #ff7f00;
+  color: #007be0;
   text-decoration: none; }
   .btn-link:hover {
-    color: #b35900;
+    color: #0000b3;
     text-decoration: underline; }
   .btn-link:focus, .btn-link.focus {
     text-decoration: underline;
@@ -8160,7 +8160,7 @@ a:hover, .btn-link:hover {
     display: block;
     width: 40px;
     height: 3px;
-    background: #ff7f00;
+    background: #007be0;
     bottom: 15px;
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -8200,7 +8200,7 @@ header {
       left: 0;
       top: 0;
       font-size: 20px;
-      color: #ff7f00; }
+      color: #007be0; }
 
 .profile-options-modal .profile-options-list {
   padding: 0;
@@ -8282,7 +8282,7 @@ header {
           width: 100%; }
           .products-list-container ul li .product-info .tags span {
             display: block;
-            background: #ff7f00;
+            background: #007be0;
             color: #fff;
             border-radius: 10px;
             margin-right: 7px;
